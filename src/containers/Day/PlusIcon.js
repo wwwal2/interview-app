@@ -1,8 +1,8 @@
 import styled from 'styled-components';
-import { FaPlusCircle } from 'react-icons/fa';
+import { FiList } from 'react-icons/fi';
 
-export default styled(FaPlusCircle).attrs({
-  size: 50,
+export default styled(FiList).attrs({
+  size: 30,
 })`
   
 `;

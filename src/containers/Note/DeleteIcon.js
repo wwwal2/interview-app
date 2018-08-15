@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import { FaMinusCircle } from 'react-icons/fa';
+import { IoMdClose } from 'react-icons/io';
 
-export default styled(FaMinusCircle).attrs({
-	size: 10,
+export default styled(IoMdClose).attrs({
+	size: 20,
 })``;
